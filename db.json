@@ -2,7 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello Bogdan!"
+      "title": "Dad",
+      "first_name": "Bogdan",
+      "last_name": "Leustean"
+    },
+     {
+      "id": 2,
+      "title": "Mom",
+      "first_name": "Bogdan",
+      "last_name": "Leustean"
+    },
+     {
+      "id": 3,
+      "title": "Daughter",
+      "first_name": "Amelie",
+      "last_name": "Leustean-Jora"
     }
   ],
   "profile": {
