@@ -97,7 +97,7 @@
       "last_name": "Prisacariu"
     },
      {
-      "id": 16,
+      "id": 17,
       "title": "friend",
       "first_name": "Tapic",
       "last_name": "Ursaciuc"
@@ -106,8 +106,20 @@
   "comments": [
       { "id": 1, 
        "body": "Json Server_Test"
+      },
+      { "id": 2,
+      "body": "Json Server_Test2"
+      },
+      { "id": 3,
+        "body": "Json Server_Test3"
       }
   ],
-   "profile": { "name": "This is my family" 
-             }
+   "profile": [
+     { "id": 1,
+       "name": "This is Bogdan's family" 
+    },
+     { "id": 2,
+       "name": "This is Ana's family"
+     }  
+   ]
 }
