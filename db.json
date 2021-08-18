@@ -1,125 +1,33 @@
 {
   "family": [
     {
-      "id": 1,
-      "title": "Dad",
-      "first_name": "Bogdan",
-      "last_name": "Leustean"
+      "id": 28,
+      "title": "Kiddo",
+      "first_name": "Ami",
+      "last_name": "LeusteanJora"
     },
-     {
-      "id": 2,
-      "title": "Mom",
-      "first_name": "Ana",
-      "last_name": "Jora"
-    },
-     {
-      "id": 3,
-      "title": "Daughter",
+    {
+      "id": 29,
+      "title": "daughter",
       "first_name": "Amelie",
-      "last_name": "Leustean-Jora"
-    },
-    {
-      "id": 4,
-      "title": "Ana's Dad",
-      "first_name": "Florin",
-      "last_name": "Jora"
-    },
-      {
-      "id": 5,
-      "title": "Ana's Mother",
-      "first_name": "Mihaela",
-      "last_name": "Jora"
-    },
-      {
-      "id": 6,
-      "title": "Ana's Grandma",
-      "first_name": "Adela",
-      "last_name": "Timofte"
-    },
-      {
-      "id": 7,
-      "title": "Ana's Brother",
-      "first_name": "Lucian",
-      "last_name": "Jora"
-    },
-      {
-      "id": 8,
-      "title": "Ana's Sister_in_Law",
-      "first_name": "Elena",
-      "last_name": "Jora"
-    },
-      {
-      "id": 9,
-      "title": "Ana's Nephew_Boy",
-      "first_name": "Vlad",
-      "last_name": "Jora"
-    },
-      {
-      "id": 10,
-      "title": "Ana's Nephew_Girl",
-      "first_name": "Sophia",
-      "last_name": "Jora"
-    },
-     {
-      "id": 11,
-      "title": "Bogdan's Dad",
-      "first_name": "Gheorghe",
-      "last_name": "Leustean"
-    },
-     {
-      "id": 12,
-      "title": "Bogdan's Mom",
-      "first_name": "Lucica",
-      "last_name": "Bita"
-    },
-    {
-      "id": 13,
-      "title": "Bogdan's Brother",
-      "first_name": "Marian",
-      "last_name": "Leustean"
-    },
-    {
-      "id": 14,
-      "title": "Bogdan's Brother",
-      "first_name": "Andrei",
-      "last_name": "Leustean"
-    },
-     {
-      "id": 15,
-      "title": "Bogdan's Sister_in_Law",
-      "first_name": "Beatrice",
-      "last_name": "Leustean"
-    },
-     {
-      "id": 16,
-      "title": "Bogdan's Sister_in_Law",
-      "first_name": "Raluca",
-      "last_name": "Prisacariu"
-    },
-     {
-      "id": 17,
-      "title": "friend",
-      "first_name": "Tapic",
-      "last_name": "Ursaciuc"
+      "last_name": "Jora Leustean"
     }
   ],
   "comments": [
-      { "id": 1, 
-       "body": "Json Server_Test"
-      },
-      { "id": 2,
-      "body": "Json Server_Test2"
-      },
-      { "id": 3,
-        "body": "Json Server_Test3"
-      }
-  ],
-   "profile": [
-     { "id": 1,
-       "name": "This is Bogdan's family" 
+    { "id": 3,
+      "body": "Json Server_Test3"
     },
-     { "id": 2,
-       "name": "This is Ana's family"
-     }  
-   ]
+    { "id": 4,
+      "body": "Json Server_Test4"
+    }
+  ],
+  "profile": [
+    { "id": 1,
+      "name": "This is Bogdan's family"
+    },
+    { "id": 2,
+      "name": "This is Ana's family"
+    }
+  ]
 }
+
